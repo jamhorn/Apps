@@ -1,3 +1,3 @@
 # Apps
 Updated IToW and WToI
-Rebuild the AutoEditor a
+Rebuild the AutoEditor 
